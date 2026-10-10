@@ -1,45 +1,36 @@
 <!-- Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:0d1117&height=220&section=header&text=Syqopat&fontSize=70&fontColor=00ff9c&fontAlignY=38&desc=student%20%E2%80%A2%20developer%20%E2%80%A2%20always%20building&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:0d1117&height=220&section=header&text=Syqopat&fontSize=70&fontColor=00ff9c&fontAlignY=38&desc=student%20%E2%80%A2%20still%20learning%20%E2%80%A2%20building%20to%20understand&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
 <!-- Typing animation -->
 <a href="https://github.com/Syqopat">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=%24+whoami;curious+developer+%26+student;Python+%E2%80%A2+Java+%E2%80%A2+JavaScript+%E2%80%A2+C%23;I+learn+by+breaking+and+rebuilding+things." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=00FF9C&center=true&vCenter=true&width=600&lines=%24+whoami;a+student%2C+still+learning+to+code;I+read+code+more+than+I+write+it;learning+by+building+small+things." alt="typing" />
 </a>
 
 </div>
 
 ```ansi
 ┌─[ about ]────────────────────────────────────────────┐
-│  > role        : student / self-taught developer       │
-│  > focus       : building projects to learn by doing    │
-│  > languages   : Python, Java, JavaScript, C#, Lua      │
-│  > status      : always shipping something new          │
+│  > role     : student, learning to code                │
+│  > now      : can read code, still learning to write    │
+│  > approach : build small projects, break them, learn   │
+│  > honesty  : no mastery claimed, just curiosity         │
 └────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-### 🧰 Tech Stack
+### 🌱 Where I'm at
 
-<div align="center">
+I'm not a polyglot developer — I'm learning. Right now I can **read** code
+across a few languages and understand roughly what it does, but I'm still
+getting comfortable writing it from scratch.
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=F89820)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=dotnet&logoColor=512BD4)
-![Lua](https://img.shields.io/badge/Lua-0d1117?style=for-the-badge&logo=lua&logoColor=2C2D72)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+I keep projects here to learn in public: try something, see it break, figure
+out why. That's the whole point.
 
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![Electron](https://img.shields.io/badge/Electron-0d1117?style=for-the-badge&logo=electron&logoColor=47848F)
-![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=for-the-badge&logo=threedotjs&logoColor=ffffff)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-
-</div>
+**Currently poking at:** `Python` · `JavaScript` · `Java`
 
 ---
 
@@ -48,11 +39,6 @@
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Syqopat&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syqopat&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Syqopat&theme=highcontrast&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" height="165" />
 
 <br/>
 
