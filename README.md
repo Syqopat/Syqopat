@@ -12,23 +12,16 @@
 
 ```ansi
 ┌─[ about ]────────────────────────────────────────────┐
-│  > role     : student, learning to code                │
-│  > now      : can read code, still learning to write    │
-│  > approach : build small projects, break them, learn   │
-│  > honesty  : no mastery claimed, just curiosity         │
-└────────────────────────────────────────────────────────┘
+│ Syqopat Was Here                                     │
+└──────────────────────────────────────────────────────┘
 ```
 
 ---
 
-### 🌱 Where I'm at
+### Whoami
 
-I'm not a polyglot developer — I'm learning. Right now I can **read** code
-across a few languages and understand roughly what it does, but I'm still
-getting comfortable writing it from scratch.
+Just vibecoding and learning things on my projects, i hope im helping to community <3
 
-I keep projects here to learn in public: try something, see it break, figure
-out why. That's the whole point.
 
 **Currently poking at:** `Python` · `JavaScript` · `Java`
 
