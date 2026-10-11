@@ -11,9 +11,9 @@
 </div>
 
 ```ansi
-┌─[ about ]────────────────────────────────────────────┐
-│ Syqopat Was Here                                     │
-└──────────────────────────────────────────────────────┘
+┌─[ about ]────────┐
+│ Syqopat Was Here │
+└──────────────────┘
 ```
 
 ---
@@ -23,7 +23,7 @@
 Just vibecoding and learning things on my projects, i hope im helping to community <3
 
 
-**Currently poking at:** `Python` · `JavaScript` · `Java`
+**Currently working at:** `Tools` · `Game developing` · `Python`
 
 ---
 
